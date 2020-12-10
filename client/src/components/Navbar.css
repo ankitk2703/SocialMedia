@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Grand+Hotel&display=swap");
+
+.btnSignIn {
+  background-color: #5e4caf;
+  border: none;
+  color: white;
+  padding: 8px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.btnSignIn:hover {
+  background-color: #8a50d6;
+}
+.btnSignUp {
+  margin-left: 10px;
+  background-color: #5e4caf;
+  border: none;
+  color: white;
+  padding: 8px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
+.btnSignUp:hover {
+  background-color: #8a50d6;
+}
+.createPost
+{
+  margin-left: 10px;
+  background-color: #5e4caf;
+  border: none;
+  color: white;
+  padding: 8px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
+.createPost:hover {
+   background-color: #8a50d6;
+}
